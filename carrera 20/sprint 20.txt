@@ -9,4 +9,5 @@ Hacer tarjetas de apoyo  para la presentacion
 Simulacion de TFG
 Actualizar la pagina web
 modificacion of titles
-
+Error al entrar en la pagina web
+Referenciar creadores de contenido
