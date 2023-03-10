@@ -5,9 +5,10 @@ ComprobarOrden
 Crear indice
 Poner etiquetas
 Encabezados del TFG
-Hacer tarjetas de apoyo  para la presentacion 
+Hacer tarjetas de apoyo para la presentación 
 Simulacion de TFG
 Actualizar la pagina web
 modificacion of titles
 Error al entrar en la pagina web
 Referenciar creadores de contenido
+Moatrar panel de control
