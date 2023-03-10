@@ -1,4 +1,4 @@
-sprint 20 
+SPRINT 20 
 Eleccion del tema y seciones del TFG
 Referenciar
 ComprobarOrden
@@ -8,7 +8,7 @@ Encabezados del TFG
 Hacer tarjetas de apoyo para la presentación 
 Simulacion de TFG
 Actualizar la pagina web
-modificacion of titles
+Modificacion of titles
 Error al entrar en la pagina web
-Referenciar creadores de contenido
-Moatrar panel de control
+Referenciar a los creadores de contenido
+Mostrar panel de control
